@@ -155,3 +155,15 @@
 // };
 
 // export default App;
+
+// import React from "react";
+
+// const App = () => {
+//   return (
+//     <>
+//       <span className="bg-yellow-200 text-black px-2 rounded">Highlighted Text</span>
+//     </>
+//   );
+// };
+
+// export default App;
